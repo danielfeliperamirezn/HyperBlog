@@ -17,7 +17,7 @@ body {
 }
 
 header {
-    background-color: pink;
+    background-color: rgb(197, 74, 95);
     color: white;
     margin: 0;
     display: flex;
