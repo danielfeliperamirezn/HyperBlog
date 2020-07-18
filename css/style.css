@@ -37,6 +37,15 @@ header {
 header span {
     margin-left: 2em;
 }
+
+footer {
+    background-color: teal;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 2em;   
+    color: white;
+}
+
 .logo {
     width: 100px;
     height: 100px;
