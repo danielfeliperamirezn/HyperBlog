@@ -4,16 +4,24 @@
 }
 body {
     font-family: monospacegt;
+    background-color: #f4f4f4;
 }
 #container {
     border: 1px solid #333;
     padding: 1em;
     margin: 0 auto;
     width: 70%;
+    background-color: white;
 }
 #post {
     color: #333;
     text-align: center;
+    padding: 2em;
+    box-sizing: content-box;
+    text-align: justify;
+}
+#post h2 {
+    padding: 1em 0;
 }
 
 header {
@@ -25,8 +33,15 @@ header {
     justify-content: start;
     padding: 2em;
     box-shadow: 0 0 15px #d4d4d4;
-    margin-bottom: 1em;
 }
 header span {
     margin-left: 2em;
+}
+.logo {
+    width: 100px;
+    height: 100px;
+    background-image: url(https://images.vexels.com/media/users/3/152650/isolated/preview/dc67bc351ada9cb55254534c2a35f57d-icono-de-la-nave-espacial-spacex-by-vexels.png);
+    background-size: cover;
+    background-position: center;
+    margin-left: 0;
 }
