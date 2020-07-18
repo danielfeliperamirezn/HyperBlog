@@ -35,5 +35,6 @@ footer {
     background-color: teal;
     text-align: center;
     text-transform: uppercase;
-    padding: 2em;
+    padding: 2em;   
+    color: white;
 }
